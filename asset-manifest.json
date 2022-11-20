@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pixel-art-drawer/static/css/main.62c2eb15.css",
+    "main.js": "/pixel-art-drawer/static/js/main.9ceb3dd0.js",
+    "index.html": "/pixel-art-drawer/index.html",
+    "main.62c2eb15.css.map": "/pixel-art-drawer/static/css/main.62c2eb15.css.map",
+    "main.9ceb3dd0.js.map": "/pixel-art-drawer/static/js/main.9ceb3dd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62c2eb15.css",
+    "static/js/main.9ceb3dd0.js"
+  ]
+}
